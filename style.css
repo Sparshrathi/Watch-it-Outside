@@ -1,0 +1,84 @@
+
+.jumbotron
+{
+    background-image: url(image/back1.jpg) ;
+    margin-top:60px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+}
+#how_it
+{
+    background-image: url(image/cloud.jpg);
+}
+#firsth
+{
+    color:black;
+    background-color:white;
+    font-size: 60px;
+}
+
+#firstp
+{
+    color:black;
+    background-color:wheat;
+    font-size: 20px;
+    opacity: 0.9;
+}
+#card-pic
+{
+    height: 450px;
+}
+#read1
+{
+    position: relative;
+    margin-top:55px ;
+}
+#read2
+{
+    position: relative;
+    margin-top:80px ;
+}
+#read3
+{
+    position: relative;
+    margin-top:150px ;
+}
+#read4
+{
+    position: relative;
+    margin-top:100px ;
+}
+#read5
+{
+    position: relative;
+    margin-top:100px ;
+}
+#read6
+{
+    position: relative;
+    margin-top:100px ;
+}
+#read7
+{
+    position: relative;
+    margin-top:100px ;
+}
+#read8
+{
+    position: relative;
+    margin-top:100px ;
+}
+#read9
+{
+    position: relative;
+    margin-top:100px ;
+}
+
+footer
+{
+    background-color: black;
+    padding: 10px;
+}
+
